@@ -5,7 +5,7 @@
 
 [常用资源](https://QuectelWB.github.io/Yocto/)
 [GitHub](https://QuectelWB.github.io/OpenLinux/OpenLinux)
-[开始阅读](#OpenLinux)
+[开始阅读](#index.md)
 
 
 
