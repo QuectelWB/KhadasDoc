@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">Quectel WB</h1>
 
-[常用资源](https://QuectelWB.github.io/Yocto/)
-[GitHub](https://QuectelWB.github.io/OpenLinux/OpenLinux)
+[常用资源](https://docs.khadas.com/zh-cn/vim3)
+[GitHub](https://github.com/khadas)
 [开始阅读](#index.md)
 
 
