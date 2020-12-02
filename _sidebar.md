@@ -1,5 +1,5 @@
 
-* [index](/vim3/index.md)
+* [index](README.md)
   
 * Start
 
